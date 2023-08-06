@@ -1,7 +1,7 @@
 <h2>WeatherApp: Real-Time Weather for Any City and Current Location</h2>
 WeatherApp is a user-friendly application that provides real-time weather information for any city in the world as well as the current location of the user. With its intuitive interface and accurate weather data, users can stay informed about the latest weather conditions and plan their activities accordingly.
 <br/>
-Deployed Link: https://realtimeweaterapp.vercel.app/
+Deployed Link:https://weather-app-main-ten.vercel.app
 <h2>Teck Stack </h2>
  React | context-api | react-router-dom | CSS 
 
@@ -33,11 +33,11 @@ Start the development server: npm run dev
 
 
 
-<!-- <img width="960" alt="image" src="https://github.com/Moumita7/WeatherApp/assets/97180521/694aa277-fedc-4f4e-a5ea-e78897c4962d"> -->
+<!-- <img width="960" alt="image" src="https://github.com/Moumita7/WeatherApp/assets/97180521/694aa277-fedc-4f4e-a5ea-e78897c4962d"> 
 
 <img width="960" alt="image" src="https://github.com/Moumita7/WeatherApp/assets/97180521/214fa6e9-1348-49d8-8def-bd56dcb1fab7">
 
-<img width="960" alt="image" src="https://github.com/Moumita7/WeatherApp/assets/97180521/02020233-8791-4359-92e8-d4add3cebc4a">
+<img width="960" alt="image" src="https://github.com/Moumita7/WeatherApp/assets/97180521/02020233-8791-4359-92e8-d4add3cebc4a">-->
 
 
 
@@ -45,5 +45,5 @@ Start the development server: npm run dev
 
 
 
-https://weather-app-main-ten.vercel.app
+
 
